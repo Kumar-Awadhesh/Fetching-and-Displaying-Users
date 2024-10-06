@@ -1,0 +1,26 @@
+main{
+    width: 40%;
+    margin: auto;
+    margin-top: 3%;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+#content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+    align-self: flex-start;
+}
+
+#fetchUsers{
+    width: 100px;
+    height: 40px;
+    margin: auto;
+    margin-bottom: 10%;
+    margin-top: 5%;
+   background-color: red;
+   color: aliceblue;
+   
+}
